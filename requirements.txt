@@ -1,8 +1,10 @@
+
 streamlit
 pandas
 numpy
-matplotlib
-openpyxl
-python-dotenv
-openai
 plotly
+openpyxl
+xlrd
+reportlab
+python-dotenv
+google-genai
